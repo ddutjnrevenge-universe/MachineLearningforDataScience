@@ -4,4 +4,4 @@ This repository is an archive of CS208: Machine Learning for Data Science class 
 2. K-means and Hierarchical clustering
 3. Decision tree and Random forest
 4. Support Vector Machine (SVM)
-5. Deep neural network
+5. Deep Neural Network
